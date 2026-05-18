@@ -1,0 +1,11 @@
+e:\Aaron_Proyect\TPs GBD\Bolillero1\Bolillero\bin\Debug\net10.0\Bolillero.deps.json
+e:\Aaron_Proyect\TPs GBD\Bolillero1\Bolillero\bin\Debug\net10.0\Bolillero.dll
+e:\Aaron_Proyect\TPs GBD\Bolillero1\Bolillero\bin\Debug\net10.0\Bolillero.pdb
+e:\Aaron_Proyect\TPs GBD\Bolillero1\Bolillero\obj\Debug\net10.0\Bolillero.GeneratedMSBuildEditorConfig.editorconfig
+e:\Aaron_Proyect\TPs GBD\Bolillero1\Bolillero\obj\Debug\net10.0\Bolillero.AssemblyInfoInputs.cache
+e:\Aaron_Proyect\TPs GBD\Bolillero1\Bolillero\obj\Debug\net10.0\Bolillero.AssemblyInfo.cs
+e:\Aaron_Proyect\TPs GBD\Bolillero1\Bolillero\obj\Debug\net10.0\Bolillero.csproj.CoreCompileInputs.cache
+e:\Aaron_Proyect\TPs GBD\Bolillero1\Bolillero\obj\Debug\net10.0\Bolillero.dll
+e:\Aaron_Proyect\TPs GBD\Bolillero1\Bolillero\obj\Debug\net10.0\refint\Bolillero.dll
+e:\Aaron_Proyect\TPs GBD\Bolillero1\Bolillero\obj\Debug\net10.0\Bolillero.pdb
+e:\Aaron_Proyect\TPs GBD\Bolillero1\Bolillero\obj\Debug\net10.0\ref\Bolillero.dll
